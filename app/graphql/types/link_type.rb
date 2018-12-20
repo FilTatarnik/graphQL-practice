@@ -8,3 +8,5 @@ Types::LinkType = GraphQL::ObjectType.define do
   field :url, !types.String
   field :decription, !types.String
 end
+
+
